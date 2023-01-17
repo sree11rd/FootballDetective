@@ -1,0 +1,1 @@
+#This code copies isl data from json to PostgresSQL
